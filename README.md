@@ -1,7 +1,7 @@
 # regular-meeting-cygroup
 This is a repository for regular meeting record in Prof.Cao's group (including PPT and others)
 
-2026春季安排：
+2026春季安排（每周二上午9:30，一号楼217房间）：
 
 | 汇报时间  | 汇报论文题目                                                 | 汇报人 |
 | --------- | ------------------------------------------------------------ | ------ |
