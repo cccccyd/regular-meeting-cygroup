@@ -1,4 +1,4 @@
-<img width="2749" height="125" alt="image" src="https://github.com/user-attachments/assets/10524efd-09f7-4671-b789-4fb8ddd96fbd" /># regular-meeting-cygroup
+# regular-meeting-cygroup
 This is a repository for regular meeting record in Prof.Cao's group (including PPT and others)
 
 2026春季安排（每周二上午9:30，一号楼217房间）：
