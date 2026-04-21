@@ -11,3 +11,4 @@ This is a repository for regular meeting record in Prof.Cao's group (including P
 | 2026/4/7 | ADGFUZZ: Assignment Dependency-GuidedFuzzing for Robotic Vehicles | 屈景辉 |
 | 2026/4/7 | An Input-Aware Mimic Defense Theory and its Practice | 梁振江 |
 | 2026/4/21 | QLCODER A QUERY SYNTHESIZER FOR STATIC ANALYSIS OF SECURITY VULNERABILITIES | 朱岩松 |
+| 2026/4/21 | Harness: Transparent and Lightweight Protection of Vehicle Control on Untrusted Android  Automotive Operating System | 孙昕 |
