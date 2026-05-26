@@ -10,6 +10,7 @@ This is a repository for regular meeting record in Prof.Cao's group (including P
 | 2026/4/7 | GeCos Replacing Exper ：Generalizable and Comprehensible Industrial Intrusion Detection | 安桂林 |
 | 2026/4/7 | ADGFUZZ: Assignment Dependency-GuidedFuzzing for Robotic Vehicles | 屈景辉 |
 | 2026/4/7 | An Input-Aware Mimic Defense Theory and its Practice | 梁振江 |
+| 2026/4/24 | NETPLIER: Probabilistic Network Protocol Reverse Engineering from Message Traces |赵奕辉|
 | 2026/4/21 | QLCODER A QUERY SYNTHESIZER FOR STATIC ANALYSIS OF SECURITY VULNERABILITIES | 朱岩松 |
 | 2026/4/21 | Harness: Transparent and Lightweight Protection of Vehicle Control on Untrusted Android  Automotive Operating System | 孙昕 |
 | 2026/5/12 | ControlLoc: Physical-World Hijacking Attack on Camera-based Perception in Autonomous Driving | 卫子涵 |
