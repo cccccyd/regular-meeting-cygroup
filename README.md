@@ -18,4 +18,4 @@ This is a repository for regular meeting record in Prof.Cao's group (including P
 | 2026/5/26 | ByCAN Reverse Engineering Controller Area  Network (CAN) Messages From Bit to Byte Level | 任东辰 |
 | 2026/6/23 | Reverse Engineering Industrial Protocols Driven By Control Fields | 赵奕辉 |
 | 2026/7/7 | PANGOLIN: Fuzzing Multilingual IoT Firmware with LLM-Driven Code Analysis | 卫子涵 |
-
+| 2026/7/7 | Automated Cross-Platform Reverse Engineering of  CAN Bus Commands From Mobile Apps | 任东辰 |
