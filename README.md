@@ -14,6 +14,7 @@ This is a repository for regular meeting record in Prof.Cao's group (including P
 | 2026/4/21 | QLCODER A QUERY SYNTHESIZER FOR STATIC ANALYSIS OF SECURITY VULNERABILITIES | 朱岩松 |
 | 2026/4/21 | Harness: Transparent and Lightweight Protection of Vehicle Control on Untrusted Android  Automotive Operating System | 孙昕 |
 | 2026/5/12 | ControlLoc: Physical-World Hijacking Attack on Camera-based Perception in Autonomous Driving | 卫子涵 |
+| 2026/5/12 | ICSQuartz: Scan Cycle-Aware and Vendor Agnostic Fuzzing for Industrial Control Systems | 付一飞 |
 | 2026/5/26 | STMBAD_Spatio-Temporal_Multimodal_Behavior_Anomaly_Detector_for_Industrial_Control_Systems | 安桂林 |
 | 2026/5/26 | ByCAN Reverse Engineering Controller Area  Network (CAN) Messages From Bit to Byte Level | 任东辰 |
 | 2026/6/23 | Reverse Engineering Industrial Protocols Driven By Control Fields | 赵奕辉 |
